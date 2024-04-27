@@ -16,9 +16,9 @@ char buffer[160 * 44];
 
 //float
 float A,B,C;
-float cubeWidth = 20;
+float cubeWidth = 10;
 float zBuffer[160 * 44];
-float incrementSpeed = 0.6;
+float incrementSpeed = 1;
 float x, y, z;
 float ooz;
 float K1 = 40;
